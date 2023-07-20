@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">EldelCare</string>
-    
-    //BOTONES 
+
+    //BOTONES
     <string name="btn_Iniciar">Iniciar</string>
     <string name="btn_Registrar">Registrar</string>
     <string name="btn_MisDatos">Mis Datos</string>
