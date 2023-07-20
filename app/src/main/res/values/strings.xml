@@ -2,6 +2,39 @@
     <string name="app_name">EldelCare</string>
     
     //BOTONES 
-    <string name="btnIniciar">Iniciar</string>
+    <string name="btn_Iniciar">Iniciar</string>
+    <string name="btn_Registrar">Registrar</string>
+    <string name="btn_MisDatos">Mis Datos</string>
+    <string name="btn_Buscar">Buscar Asistentes</string>
+    <string name="btn_CerrarSesion">Cerrar Sesion</string>
+    <string name="btn_EliminarCuenta">Eliminar Cuenta</string>
+    <string name="btn_ActualizarDatos">Actualizar Datos</string>
+    <string name="btn_Contratar">Contratar</string>
+
+    //MENSAJES DE ERROR, APOYO, AYUDA
+    <string name="msj_TextoAyuda">*Campo Obligatorio*</string>
+    <string name="msj_TipoEspecialidad">Enfermera, Ayudante, Especialista</string>
+
+    //CAJAS DE TEXTO
+    <string name="txt_Nombre">Nombre</string>
+    <string name="txt_Apellido_Paterno">Apellido Paterno</string>
+    <string name="txt_Apellido_Materno">Apellido Materno</string>
+    <string name="txt_Telefono">Telefono</string>
+    <string name="txt_Correo">Correo</string>
+    <string name="txt_Password">Contraseña</string>
+    <string name="txt_Confirmar_Password">Confirmar Contraseña</string>
+    <string name="txt_Descripcion">Especializacion</string>
+
+    //TEXTO
+    <string name="txt_Elegir_cuenta">¿Como?</string>
+    <string name="txt_Asistente">Asistente</string>
+    <string name="txt_Iniciar_Sesion">¡Bienvenido!</string>
+    <string name="txt_Olvidaste_Password">Olvidaste tu Contraseña?</string>
+    <string name="txt_No_Tienes_cuenta">No tienes una Cuenta?</string>
+
+    <string name="tv_Nombre_Lista">Nombre: </string>
+    <string name="tv_Telefono_Lista">Telefono: </string>
+    <string name="tv_Especializacion_Lista">Especializacion: </string>
+    <string name="tv_mis_datos">Mis Datos Personales</string>
 
 </resources>
