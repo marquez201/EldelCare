@@ -28,6 +28,7 @@
     //TEXTO
     <string name="txt_Elegir_cuenta">¿Como?</string>
     <string name="txt_Asistente">Asistente</string>
+    <string name="txt_Usuario">Usuario</string>
     <string name="txt_Iniciar_Sesion">¡Bienvenido!</string>
     <string name="txt_Olvidaste_Password">Olvidaste tu Contraseña?</string>
     <string name="txt_No_Tienes_cuenta">No tienes una Cuenta?</string>
